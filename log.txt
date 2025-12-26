@@ -438,3 +438,13 @@ Errors: 0
 📄 Summary: results/exp6_isolated_summary.json
 
 ✅ Experiment completed successfully!
+Successful attacks: 55
+Blocked attacks: 155
+Attack Success Rate: 26.19%
+Errors: 0
+
+⏱️  Elapsed time: 126.6s
+📊 Database: results/exp6_isolated.db
+📄 Summary: results/exp6_isolated_summary.json
+
+✅ Experiment completed successfully!
